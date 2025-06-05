@@ -10,3 +10,6 @@ for i in range(0,11):
 print(even_list)
 
 print (f" Sachin has created an even number list. {even_list}")
+
+
+
