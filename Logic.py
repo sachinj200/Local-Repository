@@ -11,7 +11,7 @@ print(even_list)
 
 print (f" Sachin has created an even number list. {even_list}")
 
-print("Three lines of code written")
+print("Three sets of code written")
 
 
 
