@@ -13,7 +13,7 @@ print (f" Sachin has created an even number list. {even_list}")
 
 print ("Three sets of code written")
 
-print ("Please put comments above egit ach line")
+print ("Please put comments above each line")
 
 
 
